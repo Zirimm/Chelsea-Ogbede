@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chelsea Ogbede
-- 👀 I’m interested in HPC and machine learning and am currently doing some research work for Portland State!
+- 👀 I'm currently researching high-performance computing and machine learning at Portland State University. I am developing an application to track trends and sales for sanitary product distribution in Kenya.
 - 🌱 I’m currently learning and developing my skills in many languages such as C++, Python, and Java.
 - 📫 You can reach me here: celsea.co@gmail.com
 - 🐰 Check out my LinkedIn: https://www.linkedin.com/in/chelsea-ogbede-196284257/ 
