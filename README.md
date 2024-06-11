@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Chelsea Ogbede
-- 👀 I’m interested in HPC and machine learning but I'm definitely looking into doing some research work!
-- 🌱 I’m currently learning and developing my skills in many languages such as C++, Python, and Java
-- 📫 You can reach me here: https://www.linkedin.com/in/chelsea-ogbede-196284257/ 
+- 👀 I’m interested in HPC and machine learning and am currently doing some research work for Portland State!
+- 🌱 I’m currently learning and developing my skills in many languages such as C++, Python, and Java.
+- 📫 You can reach me here: celsea.co@gmail.com
+- 🐰 Check out my LinkedIn: https://www.linkedin.com/in/chelsea-ogbede-196284257/ 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I co-created [RedRoom](https://redroomdis.wordpress.com/homepage/?frame-nonce=a1d99cc100), a magazine organzation that incorporates art and photography!
 
